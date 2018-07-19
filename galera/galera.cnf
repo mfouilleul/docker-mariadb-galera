@@ -1,0 +1,5 @@
+[galera]
+wsrep_cluster_name = local
+wsrep_cluster_address = gcomm://
+wsrep_node_name = localhost
+wsrep_node_address = 127.0.0.1
